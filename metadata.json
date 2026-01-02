@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tampa Bay Elite - Taylor AI",
+  "description": "Professional Real Estate Concierge with 7-Day Matchmaking and Flat 2% Commission structure. Powered by Gemini Live AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
